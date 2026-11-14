@@ -40,7 +40,3 @@ build/
 
 
 # Microservices
-billing-service/
-discovery-service/
-gateway-service/
-inventory-service/
